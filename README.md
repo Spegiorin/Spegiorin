@@ -6,6 +6,10 @@
 - Projetos de Programação Web
 - Projetos tratados em aula
 
+## Contato📫
+
+ - dspegiorin@alumni.usp.br
+
 <!--
 **Spegiorin/Spegiorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
