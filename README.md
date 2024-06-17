@@ -1,4 +1,10 @@
-## Boas vindas ao perfil de Daniel Spegiorin 👋
+## Boas vindas ao perfil de Daniel Spegiorin
+
+## Aqui você encontrará:
+
+- Projetos Arduino
+- Projetos de Programação Web
+- Projetos tratados em aula
 
 <!--
 **Spegiorin/Spegiorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
